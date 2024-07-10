@@ -1,0 +1,226 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Azeret Mono", monospace;
+  color: #0D1321;
+}
+p{
+  font-size: 10px;
+}
+/* header part */
+.first{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 80px 5px 80px;
+  color: #0D1321;
+}
+
+.f_1{
+  font-size: 15px;
+  font-weight: 200;  
+}
+
+/* .f_2{
+  width: 150px;
+  height: 20px;
+  border:1px solid #0D1321;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  font-size: 10px;
+
+} */
+/* .button {  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;  
+}
+.f_2 btn{
+
+} */
+
+
+/* main second part */
+.second{
+  background-image: url("assets/Hero-bg.png");
+  /* text-align: center;
+  justify-content: center; */
+  padding: 20px;
+  
+  
+}
+.s_1{
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+  /* justify-content: center; */
+  margin:10px 70px 10px 70px;
+  padding: 0px 70px;
+}
+.text_1{
+  /* font-family: "Azeret Mono", monospace; */
+  font-size:40px ;
+  /* text-align: center; */
+  margin:10px 70px 10px 70px;
+  padding: 0px 70px;
+  font-weight: bold;
+}
+
+.text_2{
+  /* font-family: "Azeret Mono", monospace; */
+  font-size:10px ;
+  padding: 15px 200px 15px 200px;
+  
+}
+
+/* third part */
+.third{
+  margin:10px 70px 10px 70px;
+  padding: 0px 200px;
+  /* text-align: center; */
+  /* justify-content: center; */
+}
+.th_1{
+  padding: 20px;
+}
+.text_3 h3{
+  text-align: center;
+  font-weight:bold;
+  font-size: 20px;
+  padding: 20px;
+}
+.text_3 p{
+  text-align: center;
+  font-size: 10px;
+  padding: 10px 110px 10px;
+}
+.p_1{
+  padding: 10px 110px 10px;
+  display: flex;
+  /* justify-content: space-between; */
+  width: 600px;
+  height: 200px;
+}
+.img_2 img{
+  width: 200px;
+  height: 200px;
+}
+.text_4 h4{
+
+  padding: 50px 150px 0px 15px;
+}
+.text_4 p{
+
+  padding: 10px 50px 10px 15px;
+}
+.tex_4 h4{
+  padding: 50px 50px 0px 15px;
+}
+.tex_4 p{
+  padding: 10px 50px 10px 15px;
+}
+/* .b_3{
+  padding: 10px 50px 10px 15px;
+} */
+.forth{
+  text-align: center;
+  padding: 20px 410px 20px;
+}
+
+.text_5 p{
+  padding: 30px 0px;
+}
+.vid_1 iframe{
+  border-radius: 10px;
+}
+/* fifth */
+
+.fo_1{
+  text-align: center;
+  padding: 20px 410px 20px;
+}
+.fo_1 p{
+  padding: 20px 0px;
+}
+.fo_2{
+  display: flex;
+  text-align: center;
+}
+.fo_2 .card{
+  padding: 0px 20px;
+  justify-content: start;
+}
+
+
+/* sth */
+.text_6{
+  text-align: center;
+  justify-content: start;
+  padding: 20px 410px 20px;
+  
+}
+.text_61{
+  justify-content: start;
+  padding: 20px 10px 20px;  
+}
+/* .card_31{
+  justify-content: center;
+  text-align: center;
+} */
+
+.c_1{
+  display: flex;
+  margin: 20px 310px 20px;
+  /* padding: 20px 310px 20px; */
+  border: 1px solid #0D1321;
+  border-radius: 5px;
+  width: 800px;
+  height: 80px;
+  justify-content: center;
+  padding: 20px;
+}
+.img_5 img{
+  width: 50px;
+  height: 50px;
+}
+.seth{
+  background-image: url("assets/handshake.jpg");
+  margin: 20px 200px 20px;
+  color: white;
+  padding-left: 121px;
+  text-align: center;
+  border-radius: 10px;
+}
+.seth .b_1{
+  height: 40px;
+  width: 100px;
+} 
+.text_7 h4{
+  color: white;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.text_7 p{
+  color: white;
+  padding: 10px 200px 10px;
+  width: 400px;
+}
+
+.foot{
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  margin: 20px 200px 20px;
+  padding-left: 121px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
